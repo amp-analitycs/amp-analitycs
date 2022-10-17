@@ -1,4 +1,1 @@
-CDN:
-    Amp Analitycs 
-
-Track metrics from your users correctly.
+WorkFlow::CDN::Delivery::Amp_Analitycs::HTTP Server 200
